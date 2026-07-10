@@ -1,0 +1,17 @@
+/home/Jp/Documents/Auptex/BlogSystem/src/Blog.Infrastructure/bin/Debug/net10.0/Blog.Infrastructure.deps.json
+/home/Jp/Documents/Auptex/BlogSystem/src/Blog.Infrastructure/bin/Debug/net10.0/Blog.Infrastructure.dll
+/home/Jp/Documents/Auptex/BlogSystem/src/Blog.Infrastructure/bin/Debug/net10.0/Blog.Infrastructure.pdb
+/home/Jp/Documents/Auptex/BlogSystem/src/Blog.Infrastructure/bin/Debug/net10.0/Blog.Application.dll
+/home/Jp/Documents/Auptex/BlogSystem/src/Blog.Infrastructure/bin/Debug/net10.0/Blog.Domain.dll
+/home/Jp/Documents/Auptex/BlogSystem/src/Blog.Infrastructure/bin/Debug/net10.0/Blog.Application.pdb
+/home/Jp/Documents/Auptex/BlogSystem/src/Blog.Infrastructure/bin/Debug/net10.0/Blog.Domain.pdb
+/home/Jp/Documents/Auptex/BlogSystem/src/Blog.Infrastructure/obj/Debug/net10.0/Blog.Infrastructure.csproj.AssemblyReference.cache
+/home/Jp/Documents/Auptex/BlogSystem/src/Blog.Infrastructure/obj/Debug/net10.0/Blog.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/Jp/Documents/Auptex/BlogSystem/src/Blog.Infrastructure/obj/Debug/net10.0/Blog.Infrastructure.AssemblyInfoInputs.cache
+/home/Jp/Documents/Auptex/BlogSystem/src/Blog.Infrastructure/obj/Debug/net10.0/Blog.Infrastructure.AssemblyInfo.cs
+/home/Jp/Documents/Auptex/BlogSystem/src/Blog.Infrastructure/obj/Debug/net10.0/Blog.Infrastructure.csproj.CoreCompileInputs.cache
+/home/Jp/Documents/Auptex/BlogSystem/src/Blog.Infrastructure/obj/Debug/net10.0/Blog.Inf.4FB8A09A.Up2Date
+/home/Jp/Documents/Auptex/BlogSystem/src/Blog.Infrastructure/obj/Debug/net10.0/Blog.Infrastructure.dll
+/home/Jp/Documents/Auptex/BlogSystem/src/Blog.Infrastructure/obj/Debug/net10.0/refint/Blog.Infrastructure.dll
+/home/Jp/Documents/Auptex/BlogSystem/src/Blog.Infrastructure/obj/Debug/net10.0/Blog.Infrastructure.pdb
+/home/Jp/Documents/Auptex/BlogSystem/src/Blog.Infrastructure/obj/Debug/net10.0/ref/Blog.Infrastructure.dll
