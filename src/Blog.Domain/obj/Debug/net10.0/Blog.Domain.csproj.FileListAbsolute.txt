@@ -5,8 +5,8 @@
 /home/Jp/Documents/Auptex/BlogSystem/src/Blog.Domain/obj/Debug/net10.0/Blog.Domain.AssemblyInfoInputs.cache
 /home/Jp/Documents/Auptex/BlogSystem/src/Blog.Domain/obj/Debug/net10.0/Blog.Domain.AssemblyInfo.cs
 /home/Jp/Documents/Auptex/BlogSystem/src/Blog.Domain/obj/Debug/net10.0/Blog.Domain.csproj.CoreCompileInputs.cache
+/home/Jp/Documents/Auptex/BlogSystem/src/Blog.Domain/obj/Debug/net10.0/Blog.Domain.sourcelink.json
 /home/Jp/Documents/Auptex/BlogSystem/src/Blog.Domain/obj/Debug/net10.0/Blog.Domain.dll
 /home/Jp/Documents/Auptex/BlogSystem/src/Blog.Domain/obj/Debug/net10.0/refint/Blog.Domain.dll
 /home/Jp/Documents/Auptex/BlogSystem/src/Blog.Domain/obj/Debug/net10.0/Blog.Domain.pdb
 /home/Jp/Documents/Auptex/BlogSystem/src/Blog.Domain/obj/Debug/net10.0/ref/Blog.Domain.dll
-/home/Jp/Documents/Auptex/BlogSystem/src/Blog.Domain/obj/Debug/net10.0/Blog.Domain.sourcelink.json
