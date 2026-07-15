@@ -111,3 +111,9 @@
 /home/Jp/Documents/Auptex/BlogSystem/tests/Blog.IntegrationTests/obj/Debug/net10.0/Blog.IntegrationTests.pdb
 /home/Jp/Documents/Auptex/BlogSystem/tests/Blog.IntegrationTests/obj/Debug/net10.0/Blog.IntegrationTests.genruntimeconfig.cache
 /home/Jp/Documents/Auptex/BlogSystem/tests/Blog.IntegrationTests/obj/Debug/net10.0/ref/Blog.IntegrationTests.dll
+/home/Jp/Documents/Auptex/BlogSystem/tests/Blog.IntegrationTests/obj/Debug/net10.0/Blog.IntegrationTests.sourcelink.json
+/home/Jp/Documents/Auptex/BlogSystem/tests/Blog.IntegrationTests/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.dll
+/home/Jp/Documents/Auptex/BlogSystem/tests/Blog.IntegrationTests/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/Jp/Documents/Auptex/BlogSystem/tests/Blog.IntegrationTests/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/Jp/Documents/Auptex/BlogSystem/tests/Blog.IntegrationTests/bin/Debug/net10.0/Npgsql.dll
+/home/Jp/Documents/Auptex/BlogSystem/tests/Blog.IntegrationTests/bin/Debug/net10.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll

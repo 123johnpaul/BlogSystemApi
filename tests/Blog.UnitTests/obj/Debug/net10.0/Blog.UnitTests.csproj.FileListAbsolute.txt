@@ -99,3 +99,4 @@
 /home/Jp/Documents/Auptex/BlogSystem/tests/Blog.UnitTests/obj/Debug/net10.0/Blog.UnitTests.pdb
 /home/Jp/Documents/Auptex/BlogSystem/tests/Blog.UnitTests/obj/Debug/net10.0/Blog.UnitTests.genruntimeconfig.cache
 /home/Jp/Documents/Auptex/BlogSystem/tests/Blog.UnitTests/obj/Debug/net10.0/ref/Blog.UnitTests.dll
+/home/Jp/Documents/Auptex/BlogSystem/tests/Blog.UnitTests/obj/Debug/net10.0/Blog.UnitTests.sourcelink.json

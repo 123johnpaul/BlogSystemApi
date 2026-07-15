@@ -13,3 +13,4 @@
 /home/Jp/Documents/Auptex/BlogSystem/src/Blog.Application/obj/Debug/net10.0/refint/Blog.Application.dll
 /home/Jp/Documents/Auptex/BlogSystem/src/Blog.Application/obj/Debug/net10.0/Blog.Application.pdb
 /home/Jp/Documents/Auptex/BlogSystem/src/Blog.Application/obj/Debug/net10.0/ref/Blog.Application.dll
+/home/Jp/Documents/Auptex/BlogSystem/src/Blog.Application/obj/Debug/net10.0/Blog.Application.sourcelink.json
