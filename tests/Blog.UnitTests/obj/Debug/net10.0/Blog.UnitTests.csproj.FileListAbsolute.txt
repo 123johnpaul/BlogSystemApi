@@ -7,15 +7,7 @@
 /home/Jp/Documents/Auptex/BlogSystem/tests/Blog.UnitTests/bin/Debug/net10.0/Blog.UnitTests.dll
 /home/Jp/Documents/Auptex/BlogSystem/tests/Blog.UnitTests/bin/Debug/net10.0/Blog.UnitTests.pdb
 /home/Jp/Documents/Auptex/BlogSystem/tests/Blog.UnitTests/bin/Debug/net10.0/FluentValidation.dll
-/home/Jp/Documents/Auptex/BlogSystem/tests/Blog.UnitTests/bin/Debug/net10.0/MediatR.dll
-/home/Jp/Documents/Auptex/BlogSystem/tests/Blog.UnitTests/bin/Debug/net10.0/MediatR.Contracts.dll
 /home/Jp/Documents/Auptex/BlogSystem/tests/Blog.UnitTests/bin/Debug/net10.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
-/home/Jp/Documents/Auptex/BlogSystem/tests/Blog.UnitTests/bin/Debug/net10.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
-/home/Jp/Documents/Auptex/BlogSystem/tests/Blog.UnitTests/bin/Debug/net10.0/Microsoft.Extensions.Logging.Abstractions.dll
-/home/Jp/Documents/Auptex/BlogSystem/tests/Blog.UnitTests/bin/Debug/net10.0/Microsoft.IdentityModel.Abstractions.dll
-/home/Jp/Documents/Auptex/BlogSystem/tests/Blog.UnitTests/bin/Debug/net10.0/Microsoft.IdentityModel.JsonWebTokens.dll
-/home/Jp/Documents/Auptex/BlogSystem/tests/Blog.UnitTests/bin/Debug/net10.0/Microsoft.IdentityModel.Logging.dll
-/home/Jp/Documents/Auptex/BlogSystem/tests/Blog.UnitTests/bin/Debug/net10.0/Microsoft.IdentityModel.Tokens.dll
 /home/Jp/Documents/Auptex/BlogSystem/tests/Blog.UnitTests/bin/Debug/net10.0/Microsoft.TestPlatform.CoreUtilities.dll
 /home/Jp/Documents/Auptex/BlogSystem/tests/Blog.UnitTests/bin/Debug/net10.0/Microsoft.TestPlatform.PlatformAbstractions.dll
 /home/Jp/Documents/Auptex/BlogSystem/tests/Blog.UnitTests/bin/Debug/net10.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
