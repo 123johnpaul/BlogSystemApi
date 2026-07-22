@@ -42,9 +42,23 @@ Comments require a published, unlocked post. Replies are limited to one level. A
 - Cryptographically secure OTP generation; replacement OTPs invalidate old unused OTPs for the same purpose.
 - Baseline unit test for password validation.
 
+## Security and operational configuration
+
+- Sensitive connection-string and SMTP values are no longer tracked in `appsettings.json`.
+- `appsettings.example.json` shows every required setting; configure actual values with environment variables, user secrets, or a local ignored `appsettings.Local.json`.
+- `.gitignore` excludes local configuration, build outputs, IDE state, and test results.
+- Swagger UI is available in Development at `/swagger`, with JWT bearer-token support.
+- Serilog emits structured request and application logs; OpenTelemetry instruments HTTP requests, EF Core calls, and the API `ActivitySource`, with OTLP export configurable through standard OpenTelemetry environment settings.
+
 ## Verification
 
-The user verified `dotnet build` succeeds after the async-service correction. Codex's own runner cannot run compilation because its .NET workload resolver is incomplete. Run locally:
+Verification completed on 2026-07-22:
+
+- 3 unit tests passed.
+- 1 integration test passed.
+- `dotnet test` built all projects successfully.
+
+Run locally after further changes:
 
 ```bash
 dotnet build
@@ -55,4 +69,4 @@ dotnet test
 
 Configure database, JWT, and SMTP values using environment variables or user secrets. Rotate the credentials currently present in tracked `appsettings.json` before sharing or deploying the project.
 
-The existing build warns that `Microsoft.OpenApi` 2.0.0 has a high-severity advisory; update the OpenAPI dependency during dependency maintenance. Production rollout should additionally include real PostgreSQL integration tests, SMTP sandbox verification, Serilog/OpenTelemetry exporters, and (if desired) an interactive Swagger UI package.
+Production rollout should additionally include real PostgreSQL integration tests, SMTP sandbox verification, and an OTLP collector/exporter endpoint appropriate for the deployment environment.

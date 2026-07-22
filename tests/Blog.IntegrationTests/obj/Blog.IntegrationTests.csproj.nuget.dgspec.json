@@ -64,6 +64,30 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[10.0.10, )"
+            },
+            "OpenTelemetry.Exporter.OpenTelemetryProtocol": {
+              "target": "Package",
+              "version": "[1.17.0, )"
+            },
+            "OpenTelemetry.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[1.17.0, )"
+            },
+            "OpenTelemetry.Instrumentation.AspNetCore": {
+              "target": "Package",
+              "version": "[1.17.0, )"
+            },
+            "OpenTelemetry.Instrumentation.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[1.17.0-beta.1, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[10.2.3, )"
             }
           },
           "imports": [
@@ -1579,6 +1603,9 @@
             "projectReferences": {
               "/home/Jp/Documents/Auptex/BlogSystem/src/Blog.API/Blog.API.csproj": {
                 "projectPath": "/home/Jp/Documents/Auptex/BlogSystem/src/Blog.API/Blog.API.csproj"
+              },
+              "/home/Jp/Documents/Auptex/BlogSystem/src/Blog.Infrastructure/Blog.Infrastructure.csproj": {
+                "projectPath": "/home/Jp/Documents/Auptex/BlogSystem/src/Blog.Infrastructure/Blog.Infrastructure.csproj"
               }
             }
           }
@@ -1599,6 +1626,14 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Testing": {
+              "target": "Package",
+              "version": "[10.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[10.0.10, )"
+            },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[17.14.1, )"
